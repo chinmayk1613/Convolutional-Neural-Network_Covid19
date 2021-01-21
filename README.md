@@ -13,3 +13,7 @@ Convolutional Neural Network is the class of deep learning which is mostly used 
 <code>__4. Fully Connected Layer:__</code> Here traditional neural network structure is present which can be multilayer perceptron. This is one dimensional vector represent the out from pooling layer passed as single input to hidden neurons. Whichever label receives the highest probability that will the classification decision.
 
 We can add multiple convolution+activation, pooling layer in the CNN architecture.
+
+
+
+<code>__Convolutional Neural Network Architecture:__</code>
