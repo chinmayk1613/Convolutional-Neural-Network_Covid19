@@ -16,5 +16,11 @@ We can add multiple convolution+activation, pooling layer in the CNN architectur
 
 
 
-<code>__Convolutional Neural Network Architecture:__</code>
+<code>__Convolutional Neural Network Architecture__</code>
+
 ![Alt text](/img/CNN.JPG?raw=true "CNN")
+
+
+<code>__Experiment__</code>
+
+This experiment consist of classifying images which has people with mask or without mask. Using Convolution and Pooling layer for this experiment model achived the acurracy between 80-90% on validation data. As a data set total 6000 images used both mask one and without mask one to train the model and near aroung 1600 images for validation.
