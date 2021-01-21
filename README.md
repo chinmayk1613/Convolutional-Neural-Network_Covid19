@@ -17,4 +17,4 @@ We can add multiple convolution+activation, pooling layer in the CNN architectur
 
 
 <code>__Convolutional Neural Network Architecture:__</code>
-![Alt text](/imp/CNN.JPG?raw=true "CNN")
+![Alt text](/img/CNN.JPG?raw=true "CNN")
